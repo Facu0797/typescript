@@ -7,6 +7,8 @@ const TiempoContenedor = () => {
 
     return ( 
         <>
+            <h2>🔵 UseEffect y UseRef 🔵</h2>
+            <br />
             <h4> Milisegundos <small> {milisegundos} </small> </h4>
 
             <button onClick={() => setMilisegundos(1000)} className="btn btn-primary">1000</button>

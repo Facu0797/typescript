@@ -9,6 +9,8 @@ const Contador = () => {
 
     return ( 
         <div className="mt-5">
+            <h2>🔵 UseState 🔵</h2>
+            <br />
             <h2>Contador</h2>
             {contador}
             <br />

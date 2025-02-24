@@ -1,5 +1,6 @@
 import Contador from "./Contador";
 import ContadorReducer from "./ContadorReducer";
+import Formulario from "./Formulario";
 import TiempoContenedor from "./TiempoContenedor";
 import Usuario from "./Usuario";
 
@@ -13,6 +14,17 @@ const App = () => {
             <TiempoContenedor />
             <hr />
             <ContadorReducer />
+            <hr />
+            <Formulario />
+
+
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
         </>    
     );
 }
